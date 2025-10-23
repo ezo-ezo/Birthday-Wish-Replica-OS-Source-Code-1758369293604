@@ -22,7 +22,7 @@ const Profile = () => {
             </div>
           </div>
           
-          <h1 className="text-2xl font-bold text-purple-700 mb-1">Madam Ji</h1>
+          <h1 className="text-2xl font-bold text-purple-700 mb-1">Ishi Baby</h1>
           <p className="text-pink-500 text-sm">Birthday Princess 👸</p>
         </div>
         
@@ -41,7 +41,7 @@ const Profile = () => {
                 <Cake className="w-5 h-5 text-pink-500 mr-3" />
                 <div>
                   <div className="text-xs text-gray-500">Birthday</div>
-                  <div className="font-medium text-gray-800">July 5</div>
+                  <div className="font-medium text-gray-800">October 23</div>
                 </div>
               </div>
               
@@ -49,7 +49,7 @@ const Profile = () => {
                 <Music className="w-5 h-5 text-purple-500 mr-3" />
                 <div>
                   <div className="text-xs text-gray-500">Favorite Song</div>
-                  <div className="font-medium text-gray-800">Perfect</div>
+                  <div className="font-medium text-gray-800">Bade ache lagte hai</div>
                 </div>
               </div>
               
@@ -57,7 +57,7 @@ const Profile = () => {
                 <Coffee className="w-5 h-5 text-pink-500 mr-3" />
                 <div>
                   <div className="text-xs text-gray-500">Favorite Drink</div>
-                  <div className="font-medium text-gray-800">Hot Chocolate</div>
+                  <div className="font-medium text-gray-800">Peach Ice Tea</div>
                 </div>
               </div>
               
