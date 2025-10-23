@@ -12,7 +12,7 @@ const Notepad = () => {
     {
       id: 2,
       title: "Date Ideas",
-      content: "• Picnic in the park with your favorite foods\n• Movie marathon with all your favorite films\n• Cooking dinner together\n• Stargazing on a clear night\n• Visit that art museum you mentioned\n• Weekend getaway to the mountains\n• Dancing in the living room to our favorite songs",
+      content: "• Picnic in the park with your favorite foods\n• Movie marathon with all your favorite films\n• Cooking dinner together\n• Stargazing on a clear night\n• Visit an art museum\n• Dancing in the living room to our favorite songs",
       date: new Date().toLocaleDateString()
     }
   ]);

@@ -19,14 +19,16 @@ const LoveLetters = ({ fromFileManager = false }) => {
       preview: "My dearest love, every morning I wake up grateful for you...",
       content: `My dearest love,
 
-Every morning I wake up grateful for you. Your smile lights up my world in ways I never thought possible. You bring joy to the simplest moments and make every day feel like an adventure.
+I love you, not because you're perfect but because you're real.
+Because you feel things deeply, care endlessly, and love with every part of your heart even when it's been hurt before. You're gentle and chaotic, soft and strong, and somehow you hold all of that inside one heartbeat that beats for me.
 
-I love the way you laugh at my silly jokes, how you always know exactly what to say when I'm having a tough day, and the way you make everything better just by being you.
+I love you for the way you laugh freely, like the world disappears for a second. I love how your eyes light up when you talk about something you love. I love the way you tease me, and the way you melt right after. I love that you don't try to be anything other than yourself that's what makes you so beautiful to me.
 
-You are my best friend, my partner in crime, and the love of my life. Thank you for being the most amazing person I know.
+You make ordinary moments feel alive. A simple call, a shared silence, a random text they all become memories I can't stop replaying. You make me want to be better, softer, more patient, more me.
 
-Forever yours,
-With all my love 💕`
+I love you because you've seen every side of me the proud, the broken, the quiet, the scared and never once stepped away. You stayed. You understood. You loved me harder.
+
+And that's why I love you because you don't just exist in my world, you complete it.`
     },
     {
       id: 2,
@@ -37,14 +39,16 @@ With all my love 💕`
       preview: "I still remember every detail of our first date...",
       content: `My beautiful girl,
 
-I still remember every detail of our first date - how nervous I was, how beautiful you looked, and how effortlessly our conversation flowed. From that moment, I knew you were special.
+Our first date still feels like a dream I never wanted to wake up from.
+Every second of that day is carved into my heart the nervous excitement, the smiles we couldn't hide, the small talks that turned into big feelings.
 
-The way you laughed at my stories, how you listened with such genuine interest, and the spark in your eyes when you talked about your passions - I was completely enchanted.
+I still remember how you looked at me for the first time that day like you couldn't believe I was real. And honestly, neither could I. The world around us faded, and it felt like time slowed down just to let us exist in that one perfect moment.
 
-That first date was just the beginning of the most beautiful love story I could have ever imagined.
+When we laughed, I felt like I'd known you for lifetimes. When you spoke, it felt like every word had been waiting for me to hear it. And when you smiled that was it. That was the moment I knew I'd never be the same again.
 
-With endless love,
-Your devoted partner 💖`
+Our first date wasn't about where we went or what we did it was about us. It was about feeling that spark that still hasn't faded. It was about realizing that this you and me was going to be something unforgettable.
+
+That day started a story I'll spend my life writing with you.`
     },
     {
       id: 3,
@@ -55,14 +59,25 @@ Your devoted partner 💖`
       preview: "When I think about our future together...",
       content: `My forever love,
 
-When I think about our future together, my heart fills with excitement and joy. I dream of all the adventures we'll have, the memories we'll create, and the love we'll continue to build.
+When I think about the future, I don't imagine fancy houses or perfect plans.
+I imagine you.
+Waking up next to you.
+Cooking breakfast together.
+Dancing in the kitchen when no one's watching.
+Your laughter echoing through our home like sunlight pouring through windows.
 
-I imagine us laughing together until we're old and gray, supporting each other through every challenge, and celebrating every victory side by side.
+I imagine us sitting on the floor, surrounded by half-eaten pizza and dreams that never stop growing. You wrapped in a blanket, your head on my shoulder, talking about everything and nothing at all. I imagine us taking drives with no destination just music, wind, and peace.
 
-You are my today, my tomorrow, and my always. I can't wait to spend the rest of my life loving you.
+I dream of lazy Sundays.
+Of nights where we fall asleep mid conversation.
+Of hugs that last too long, of quiet mornings with coffee and comfort.
+Of arguments that always end in love.
 
-Forever and always,
-Your soulmate 💕✨`
+And most of all, I dream of forever not in a fairytale way, but in a real one.
+Where love isn't perfect, but patient. Where life isn't easy, but worth it because we have each other.
+
+You are in every version of my tomorrow.
+And that's my favorite dream to keep chasing.`
     },
     {
       id: 4,
@@ -73,16 +88,19 @@ Your soulmate 💕✨`
       preview: "I promise to always be there for you...",
       content: `My sweetest love,
 
-This is my promise to you - to stand by your side through every storm, to celebrate with you in every joy, to support you in every dream, and to love you with all my heart every single day.
+I promise to love you in all your moods when you're happy, when you're tired, when you're quiet, when you're messy, when you don't even know how to love yourself.
 
-I promise to be your biggest fan, your trusted confidant, your loyal partner, and your best friend. I promise to choose you, again and again, every day for the rest of our lives.
+I promise to stay through distance, through storms, through everything that tries to come between us.
+I promise to listen when you need to talk, to hold you when words aren't enough, to understand when you don't know how to explain.
 
-When the days are hard, I'll hold your hand. When the nights are long, I'll be your comfort. And in all the moments in between, I'll be there loving you.
+I promise to remind you every day that you are enough more than enough.
+That you are beautiful, not because of how you look, but because of the heart that beats inside you.
 
-This is my solemn promise, sealed with all my love.
+I'll be your calm in chaos, your strength when you're tired, your warmth when the world feels cold.
+I'll keep choosing you in every lifetime, in every version of us, even when time tries to pull us apart.
 
-Yours forever,
-Your faithful partner 💖`
+I promise to love you loudly, gently, endlessly.
+Because loving you isn't a decision anymore it's who I am.`
     },
     {
       id: 5,
@@ -93,16 +111,17 @@ Your faithful partner 💖`
       preview: "There are so many little moments with you that I treasure...",
       content: `My darling,
 
-There are so many little moments with you that I treasure - the way you look first thing in the morning, your laugh when something really amuses you, how focused you get when you're passionate about something.
+It's funny how the smallest moments with you are the ones that stay the longest.
+The way you laugh with your whole face. The way your hand fits perfectly in mine. The way you look at me before saying something you know will make me melt.
 
-I cherish our quiet evenings together, our silly inside jokes, our deep conversations late at night, and even our little disagreements that always lead to understanding each other better.
+I cherish our late-night calls, the ones where time doesn't matter. The comfortable silences, the sleepy smiles, the shared playlists, the random confessions. I cherish the way you say my name like it's something soft, something only meant for you to hold.
 
-These seemingly ordinary moments are what make our love extraordinary. They're the building blocks of our story, and I'm grateful for each one.
+I cherish every hug, every inside joke, every time we made each other laugh till we couldn't breathe. I cherish the tears too because they reminded me that love isn't always perfect, but it's real.
 
-Thank you for all these beautiful moments, past and future.
+Every memory with you feels like a photograph I keep replaying in my head one that never fades, no matter how far we are.
+And if I could freeze time, I'd freeze every moment that has you in it.
 
-With endless affection,
-The one who loves collecting memories with you 💕`
+Because those moments you, us, everything are my favorite part of this entire life.`
     }
   ];
 
